@@ -9,7 +9,7 @@
 
 ## Undergrad Projects
 ### [Aimbot](https://github.com/nikhil-x-gupta/AimBot)
-### Data Structures and Algorithms
+### [Data Structures and Algorithms](https://github.com/nikhil-x-gupta/berkeley-undergrad)
 
 <!--
 **nikhil-x-gupta/nikhil-x-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
