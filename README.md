@@ -1,4 +1,7 @@
-### Hi there 👋
+### Nikhil Gupta's Projects
+
+### NVIDIA AI Courses
+## [Getting Started with AI on Jetson Nano DLI] (https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/)
 
 <!--
 **nikhil-x-gupta/nikhil-x-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
