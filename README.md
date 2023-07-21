@@ -8,7 +8,7 @@
 
 
 ## Undergrad Projects
-### Aimbot
+### [Aimbot](https://github.com/nikhil-x-gupta/AimBot)
 ### Data Structures and Algorithms
 
 <!--
