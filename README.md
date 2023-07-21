@@ -1,7 +1,7 @@
 # Nikhil Gupta's Projects
 
 ## NVIDIA AI Courses
-### [Getting Started with AI on Jetson Nano DLI](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/)
+### [Getting Started with AI on Jetson Nano DLI](https://github.com/nikhil-x-gupta/jetson-ai-fundamentals)
 
 ### [Hello AI World](https://github.com/nikhil-x-gupta/jetson-inference/tree/master)
 
