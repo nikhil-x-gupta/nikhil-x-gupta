@@ -5,7 +5,7 @@ Currently in progress
 
 This project's goal is to identify hummingbirds when they show up on a camera feed and notify the user/client when one is currently within the camera's view.
 
-This project also serves as my project submission for Part 3 of the NVIDIA Jetson AI Specialist Certification.
+This project also serves as my project submission for the NVIDIA Jetson AI Specialist Certification.
 
 ## NVIDIA AI Courses
 ### [Getting Started with AI on Jetson Nano DLI](https://github.com/nikhil-x-gupta/jetson-ai-fundamentals)
