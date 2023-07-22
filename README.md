@@ -1,6 +1,9 @@
 # Nikhil Gupta's Projects
 
-### 
+## [Hummingbird Detect](https://github.com/nikhil-x-gupta/hummingbird_detect/tree/main)
+Currently in progress
+My project submission for Part 3 of the NVIDIA Jetson AI Specialist Certification.
+This project's goal is to identify hummingbirds when they show up on a camera feed and notify the user/client when one is currently within the camera's view.
 
 ## NVIDIA AI Courses
 ### [Getting Started with AI on Jetson Nano DLI](https://github.com/nikhil-x-gupta/jetson-ai-fundamentals)
