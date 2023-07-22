@@ -1,11 +1,15 @@
 # Nikhil Gupta's Projects
 
+### 
+
 ## NVIDIA AI Courses
 ### [Getting Started with AI on Jetson Nano DLI](https://github.com/nikhil-x-gupta/jetson-ai-fundamentals)
 
+A course from NVIDIA's Deep Learning Institute on using Jetson hardware for machine learning. Part 1 of the NVIDIA Jetson AI Specialist Certification.
+
 ### [Hello AI World](https://github.com/nikhil-x-gupta/jetson-inference/tree/master)
 
-
+An NVIDIA guide for building, training, and developing end-to-end machine learning projects on Jetson hardware, including image classification, object detection, semantic segmentation, and transfer learning. Part 2 of the NVIDIA Jetson AI Specialist Certification.
 
 ## Undergrad Projects
 ### [Aimbot](https://github.com/nikhil-x-gupta/AimBot)
