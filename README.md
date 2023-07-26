@@ -1,7 +1,7 @@
 # Nikhil Gupta's Projects
 
 ## [Hummingbird Detect](https://github.com/nikhil-x-gupta/hummingbird_detect/tree/main)
-Currently in progress
+*Currently in progress*
 
 This project's goal is to identify hummingbirds when they show up on a camera feed and notify the user/client when one is currently within the camera's view.
 
@@ -18,7 +18,13 @@ An NVIDIA guide for building, training, and developing end-to-end machine learni
 
 ## Undergrad Projects
 ### [Aimbot](https://github.com/nikhil-x-gupta/AimBot)
+A robotic system for accurately tracking and firing a projectile at static and moving targets.
+
 ### [Data Structures and Algorithms](https://github.com/nikhil-x-gupta/berkeley-undergrad)
+Homeworks, labs, and projects from UC Berkeley course CS61B "Data Structures and Algorithms."
+Projects include:
+* BearMaps: Web-browser based maps application implementing Map Rastering, Routing, and Search with Autocomplete
+* Build Your Own World: Java game with randomly generated worlds, player input navigation, and file manipulation.
 
 <!--
 **nikhil-x-gupta/nikhil-x-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
